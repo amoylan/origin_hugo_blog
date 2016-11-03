@@ -1,0 +1,25 @@
+baseurl = "https://amoylan.github.io/"
+title = "Amoylan's Blog"
+languageCode = "en-us"
+theme = "vec"
+paginate = 15
+
+disqusShortname = "amoylan"
+
+[menu]
+  # Shown in the side menu.
+  [[menu.main]]
+    name = "post"
+    weight = 0
+    url = "/post"
+
+[Params]
+  #Keywords = "key1"
+  #Description = "This is a description"
+  
+  Avater = "default.jpg"
+  SelfIntro = "一个野生程序员的自我修养"
+  Email = "lanmengran@qq.com"
+
+  GithubID = "amoylan"
+  WeiboID = 1947739002

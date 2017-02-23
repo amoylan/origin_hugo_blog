@@ -3,4 +3,5 @@
 	url = https://github.com/dim0627/hugo_theme_robust.git
 [submodule "themes/vec"]
 	path = themes/vec
-	url = https://github.com/IvanChou/hugo-theme-vec
+	url = https://github.com/amoylan/hugo-theme-vec.git
+	branch = amoylan

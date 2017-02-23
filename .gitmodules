@@ -1,0 +1,6 @@
+[submodule "themes/hugo_theme_robust"]
+	path = themes/hugo_theme_robust
+	url = https://github.com/dim0627/hugo_theme_robust.git
+[submodule "themes/vec"]
+	path = themes/vec
+	url = https://github.com/IvanChou/hugo-theme-vec
